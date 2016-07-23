@@ -1,0 +1,17 @@
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\bin\Release\Anti-Rito.exe.config
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\bin\Release\Anti-Rito.exe
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\bin\Release\Anti-Rito.pdb
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\bin\Release\EloBuddy.dll
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\bin\Release\EloBuddy.SDK.dll
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\bin\Release\mscorlib.dll
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\bin\Release\SharpDX.Direct3D9.dll
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\bin\Release\SharpDX.dll
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\bin\Release\Newtonsoft.Json.dll
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\bin\Release\normidna.nlp
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\bin\Release\normnfc.nlp
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\bin\Release\normnfd.nlp
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\bin\Release\normnfkc.nlp
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\bin\Release\normnfkd.nlp
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\obj\Release\Anti-Rito.exe
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\obj\Release\Anti-Rito.pdb
+F:\2\a\EloBuddy-Humanizers-master\EloBuddy-Humanizers-master\Anti-Rito\obj\Release\Anti-Rito.csprojResolveAssemblyReference.cache
